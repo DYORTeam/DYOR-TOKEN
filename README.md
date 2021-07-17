@@ -1,1 +1,1 @@
-# DYOR-TOKEN
+SafeBsc Token
